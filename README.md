@@ -12,7 +12,7 @@
 
 ***
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=issues,contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=issues,contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
