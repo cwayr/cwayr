@@ -3,7 +3,7 @@
 - 🎹 I'm a musician turned developer 💻
 - 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
 - 💬 Always open to collaborate. Let's learn from each other!
-- 📫 Reach me at cjwaymeyer@gmail.com or [LinkedIn](https://www.linkedin.com/in/calebwaymeyer/)
+- 📫 Reach me at cjwaymeyer@gmail.com or on [LinkedIn](https://www.linkedin.com/in/calebwaymeyer/)
 
 ***
 
