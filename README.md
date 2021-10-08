@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Caleb.
 
-- 🎹 I'm a musician turned developer 💻
+- 🎹 Musician turned developer 💻
 - 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
 - 💬 Always open to collaborate. Let's learn from each other!
 - 📫 Reach me at cjwaymeyer@gmail.com or on [LinkedIn](https://www.linkedin.com/in/calebwaymeyer/)
