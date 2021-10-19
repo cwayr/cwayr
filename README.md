@@ -1,32 +1,33 @@
-<div align="center">
-  <h1>Hi there 👋 I'm Caleb.</h1>
+
+<h1>Hi there 👋 I'm Caleb.</h1>
 
 🎹 Musician turned developer 💻
 <br />
 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
 <br />
 💬 Always open to collaborate. Let's learn from each other!
-</div>
 
-<h3 align="center">Contact me</h3>
-<p float="left" align="center">
+<h2>Contact me</h2>
+<p float="left">
   <a href="mailto:cjwaymeyer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/calebwaymeyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/cjwaym"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p float="left" align="center">
+<h2>Languages and Tools</h2>
+<div float="left">
+  <h4>Front end</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <h4>Back end</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</div>
 
 ***
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=issues,contribs&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
