@@ -1,11 +1,9 @@
 
 <h1>Hi there 👋 I'm Caleb.</h1>
 
-🎹 Musician turned developer 💻
-<br />
-🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
-<br />
-💬 Always open to collaborate. Let's learn from each other!
+- 🎹 Musician turned developer 💻
+- 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
+- 💬 Always open to collaborate. Let's learn from each other!
 
 <h2>Contact me</h2>
 <p float="left">
