@@ -1,7 +1,7 @@
 
 <h1>Hi there 👋 I'm Caleb.</h1>
 
-- ⌨ Currently working on: [Spotify Sharing](https://github.com/cwaymeyer/spotify-sharing.git)
+- <b><i> ➡ Currently working on: [Spotify Sharing](https://github.com/cwaymeyer/spotify-sharing.git) ⬅</i></b>
 - 🎹 Musician turned developer 💻
 - 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
 - 💬 Always open to collaborate. Let's learn from each other!  
