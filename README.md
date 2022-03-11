@@ -2,8 +2,8 @@
 
 <!-- - <b><i> ➡ Currently working on: [Spotify Sharing](https://github.com/cwaymeyer/spotify-sharing.git) ⬅</i></b> -->
 - 🎹 Musician turned developer 💻
-- 🌱 Currently enrolled in Springboard's Software Engineering Bootcamp
-- 💬 Always open to collaborate. Let's learn from each other!  
+- 🌱 Currently learning: TypeScript
+- 💬 Open to collaborate. Let's learn from each other!
 
 <h4>Toolbox</h4>
 <div float="left">
