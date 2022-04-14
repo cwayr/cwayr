@@ -3,7 +3,6 @@
 <!-- - <b><i> ➡ Currently working on: [Spotify Sharing](https://github.com/cwaymeyer/spotify-sharing.git) ⬅</i></b> -->
 - 🎹 Musician turned developer 💻
 - 🌱 Currently learning: TypeScript, AWS
-- 💬 Open to collaborate. Let's learn from each other!
 
 <h4>Toolbox</h4>
 <div float="left">
