@@ -22,7 +22,7 @@
 </div>
 
 ***
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=contribs&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=github_dark&hide_border=true&card_width=260)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=contribs&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=nord&hide_border=true&card_width=260)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- <h6><i>What I'm listening to. Put it on shuffle!</i></h6> <a href="https://open.spotify.com/playlist/2zN61ljwPop5Ks2dUiy6KA?si=23de6eda25fc4b43"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>  -->
  
