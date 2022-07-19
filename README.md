@@ -1,10 +1,8 @@
-<!-- <h1>Hi there 👋 I'm Caleb.</h1> -->
 
-<!-- - <b><i> ➡ Currently working on: [Spotify Sharing](https://github.com/cwaymeyer/spotify-sharing.git) ⬅</i></b> -->
-- 🎹 Musician turned developer 💻
-- 🌱 Currently learning: TypeScript, AWS
+![Profile views](https://komarev.com/ghpvc/?username=cwaymeyer&label=Profile%20views&color=0e75b6&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/cwaymeyer?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/cwaymeyer?style=flat-square)
 
-<h4>Toolbox</h4>
 <div float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
