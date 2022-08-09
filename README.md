@@ -1,5 +1,4 @@
-
-![image bg](https://user-images.githubusercontent.com/60524606/183769114-f7da934d-f9fa-4435-a5f6-b593e5e7fab4.jpg)
+<!-- [image bg](https://user-images.githubusercontent.com/60524606/183769114-f7da934d-f9fa-4435-a5f6-b593e5e7fab4.jpg) -->
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=cwaymeyer&label=Profile%20views&color=0e75b6&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/cwaymeyer?style=flat-square)
