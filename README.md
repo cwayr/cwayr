@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwaymeyer&theme=react&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwaymeyer&theme=react&hide_border=true)](https://git.io/streak-stats) -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
