@@ -19,9 +19,11 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div> -->
 
+<!-- GITHUB STATS -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwaymeyer&theme=react&hide_border=true)](https://git.io/streak-stats) -->
-
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwaymeyer&hide=contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwaymeyer&layout=compact&show_icons=true&theme=react&hide_border=true&card_width=260)](https://github.com/anuraghazra/github-readme-stats)
+-->
  
 <!-- <h6><i>Get in the zone</i></h6> <a href="https://open.spotify.com/playlist/2zN61ljwPop5Ks2dUiy6KA?si=23de6eda25fc4b43"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
  
