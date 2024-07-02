@@ -1,19 +1,36 @@
+<div align="center">
+  
 <img src="https://github.com/cwayr/react-deployment-template/assets/60524606/807fea35-2a69-46a6-b75f-678db20333ab" width=320/>
 <div></div><br />
 
+</div>
+
 <!-- GITHUB STATS -->
+<div align="center">
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwayr&hide=contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwayr&layout=compact&show_icons=true&theme=react&hide_border=true&card_width=260)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 <!-- CONTACT -->
-<h6><i>Find me</i></h6>
+<div align="center"> 
+  
+<h6><i>Contact me</i></h6>
 <div float="left">
   <a href="https://www.linkedin.com/in/calebwaymeyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/calebwaymeyer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:calebwaymeyer@protonmail.com"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+</div>
+
 </div>
 
  <!-- SPOTIFY -->
-<h6><i>Coding playlist</i></h6> 
-<a href="https://open.spotify.com/playlist/2zN61ljwPop5Ks2dUiy6KA?si=23de6eda25fc4b43"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+ <div align="center"> 
+<h6><i>Choose a coding playlist</i></h6> 
+<a href="https://open.spotify.com/playlist/6GPNTJxqjsCHXtzBvkb0Pl"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="https://open.spotify.com/playlist/3Q3Yw2YgZSLBLUJCZV4rBp"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+
+</div>
 
 <!-- PROFILE STATS -->
 <!--
