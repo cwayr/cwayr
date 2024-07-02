@@ -26,7 +26,7 @@
 
  <!-- SPOTIFY -->
  <div align="center"> 
-<h6><i>Choose a coding playlist</i></h6> 
+<h6><i>Choose a coding playlist!</i></h6> 
 <a href="https://open.spotify.com/playlist/6GPNTJxqjsCHXtzBvkb0Pl"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://open.spotify.com/playlist/3Q3Yw2YgZSLBLUJCZV4rBp"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
