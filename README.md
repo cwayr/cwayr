@@ -8,9 +8,17 @@
 <!-- GITHUB STATS -->
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwayr&hide=contribs&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwayr&layout=compact&show_icons=true&theme=react&hide_border=true&card_width=260)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwayr&hide=contribs&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwayr&layout=compact&show_icons=true&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<!--
+<div align="center">
+  
+![LeetCode Stats](https://leetcode.card.workers.dev/cwayr?theme=react&hide_border=true&font=baloo&extension=null&theme=nord&width=320)
+
+</div>
+-->
 
 <!-- CONTACT -->
 <div align="center"> 
