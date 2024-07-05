@@ -27,7 +27,7 @@
 <div float="left">
   <a href="https://www.linkedin.com/in/calebwaymeyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/calebwaymeyer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:calebwaymeyer@protonmail.com"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <!-- <a href="mailto:calebwaymeyer@protonmail.com"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a> -->
 </div>
 
 </div>
