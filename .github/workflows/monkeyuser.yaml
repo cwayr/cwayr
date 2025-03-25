@@ -2,7 +2,7 @@ name: Update MonkeyUser Comic
 
 on:
   schedule:
-    - cron: "0 5 * * *" # daily at midnight UTC
+    - cron: "0 5 * * *" # daily at 5:00 AM UTC (midnight EST)
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,7 @@ jobs:
           curl -s "https://monkeyuser-api.ridvanaltun.vercel.app/api/comics/random?img=true" > comic_url.txt
           COMIC_URL=$(cat comic_url.txt)
           sed -i "s|<!-- MONKEYUSER_COMIC_START -->.*<!-- MONKEYUSER_COMIC_END -->|<!-- MONKEYUSER_COMIC_START -->\n<img src=\"$COMIC_URL\" alt=\"Random MonkeyUser Comic\" height=\"300\">\n<!-- MONKEYUSER_COMIC_END -->|" README.md
+          rm comic_url.txt # Clean up temporary file
 
       - name: Commit and push changes
         run: |
