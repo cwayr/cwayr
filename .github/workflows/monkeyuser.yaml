@@ -16,8 +16,10 @@ jobs:
         run: |
           curl -s "https://monkeyuser-api.ridvanaltun.vercel.app/api/comics/random?img=true" > comic_url.txt
           COMIC_URL=$(cat comic_url.txt)
+          echo "Comic URL: $COMIC_URL" # Debug: print the URL
           sed -i "s|<!-- MONKEYUSER_COMIC_START -->.*<!-- MONKEYUSER_COMIC_END -->|<!-- MONKEYUSER_COMIC_START -->\n<img src=\"$COMIC_URL\" alt=\"Random MonkeyUser Comic\" height=\"300\">\n<!-- MONKEYUSER_COMIC_END -->|" README.md
-          rm comic_url.txt # Clean up temporary file
+          cat README.md # Debug: print the updated README
+          rm comic_url.txt # Clean up
 
       - name: Commit and push changes
         run: |
