@@ -37,9 +37,3 @@
 <a href="https://open.spotify.com/playlist/3Q3Yw2YgZSLBLUJCZV4rBp" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
 </div>
-
-<div align="center">
-<!-- MONKEYUSER_COMIC_START -->
-![Random MonkeyUser Comic](https://placeholder.com/image.jpg)
-<!-- MONKEYUSER_COMIC_END -->
-</div>
