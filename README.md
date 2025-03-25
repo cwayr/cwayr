@@ -43,8 +43,3 @@
 ![Random MonkeyUser Comic](https://placeholder.com/image.jpg)
 <!-- MONKEYUSER_COMIC_END -->
 </div>
-
-<!-- PROFILE STATS -->
-![Profile views](https://komarev.com/ghpvc/?username=cwayr&label=Profile%20views&color=0e75b6&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/cwayr?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/cwayr?style=flat-square)
