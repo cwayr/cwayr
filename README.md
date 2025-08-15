@@ -7,8 +7,8 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cwayr&theme=rose_pine&hide_border=true&show_icons=true&rank_icon=github&hide=contribs" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwayr&theme=rose_pine&layout=compact&hide_border=true&langs_count=8&card_width=320" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cwayr&theme=rose_pine&hide_border=true&show_icons=true&rank_icon=github&hide=contribs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwayr&theme=rose_pine&layout=compact&hide_border=true&langs_count=8&card_width=320" />
 </div>
 
 <!--
@@ -35,5 +35,10 @@
 <h6><i>Choose a coding playlist</i></h6> 
 <a href="https://open.spotify.com/playlist/6GPNTJxqjsCHXtzBvkb0Pl" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://open.spotify.com/playlist/3Q3Yw2YgZSLBLUJCZV4rBp" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</div>
 
+<br />
+
+<div align="center">
+<a href="https://githubtune.com" target="_blank"><b>githubtune.com</b></a>
 </div>
