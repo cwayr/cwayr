@@ -30,7 +30,7 @@
 </div>
 -->
 
- <!-- SPOTIFY -->
+<!--';
  <div align="center"> 
 <h6><i>Choose a coding playlist</i></h6> 
 <a href="https://open.spotify.com/playlist/6GPNTJxqjsCHXtzBvkb0Pl" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
@@ -42,3 +42,4 @@
 <div align="center">
 <a href="https://githubtune.com" target="_blank"><b>githubtune.com</b></a>
 </div>
+-->
