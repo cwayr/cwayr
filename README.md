@@ -1,9 +1,11 @@
+<!--
 <div align="center">
   
 <img src="https://github.com/cwayr/react-deployment-template/assets/60524606/807fea35-2a69-46a6-b75f-678db20333ab" width=320/>
 <div></div><br />
 
 </div>
+-->
 
 <!-- GITHUB STATS -->
 <div align="center">
